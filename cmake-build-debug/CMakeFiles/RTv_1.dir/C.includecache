@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tvoronyu/CLionProjects/RTv-1/fractol.h
+stdio.h
+-
+stdio.h
+-
+fcntl.h
+-
+math.h
+-
+minilibx_macos/mlx.h
+/Users/tvoronyu/CLionProjects/RTv-1/minilibx_macos/mlx.h
+libft/libft.h
+/Users/tvoronyu/CLionProjects/RTv-1/libft/libft.h
+pthread.h
+-
+
+/Users/tvoronyu/CLionProjects/RTv-1/libft/libft.h
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+stdio.h
+-
+
+/Users/tvoronyu/CLionProjects/RTv-1/main.c
+fractol.h
+/Users/tvoronyu/CLionProjects/RTv-1/fractol.h
+
+/Users/tvoronyu/CLionProjects/RTv-1/minilibx_macos/mlx.h
+
